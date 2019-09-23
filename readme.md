@@ -11,4 +11,4 @@ Techonologies used:
 `npm run dev`
 
 ### Credits
-[Awesome Tutorial by Dev Ed](https://www.youtube.com/watch?v=1dJT-99KpiI)
+[Awesome Tutorial](https://www.youtube.com/watch?v=1dJT-99KpiI) by [Dev Ed](https://github.com/DevEdwin/page-transitions-js)
